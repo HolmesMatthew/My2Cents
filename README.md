@@ -8,6 +8,7 @@ Budget/Finacial app. The idea behind My2Cents is to steamline the budgeting proc
 > The app will allow the User to skip linking their bank account and manualy enter their information.
 ### Features
 Custom or preset budget
+Plaid handels security
 
 
 eliminates guesswork
@@ -19,7 +20,15 @@ ease of access
 
 ## Data Model
 Data working flow
-
+    -User login
+    -Transaction history
+    -Budget preferences
+    -Savings calculator
+    ---
+    > if time permits
+    -loan/credit calculator
+    -"snowball" debt calculator
+    
 ```mermaid
 graph TD;
     A-->B;
