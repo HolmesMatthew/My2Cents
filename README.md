@@ -4,5 +4,27 @@ Helping you save your cents
 ___
 
 ## Project Overview
+Budget/Finacial app. The idea behind My2Cents is to steamline the budgeting process as much as possible. The User will select the budget they want to use, either by preset or a custom budget(accounting for: --). Then using Plaid Api to gain access to User bank accounts, the app will sort through recent transactions and propose a budget allowing the User to make changes if necessary. The app will then highlight areas the User is spending an excess of money
+> The app will allow the User to skip linking their bank account and manualy enter their information.
+### Features
+Custom or preset budget
 
-### Project Overview
+
+eliminates guesswork
+all in one
+clean and effective
+intuitive design
+eleminate guesswork
+ease of access
+
+## Data Model
+Data working flow
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
