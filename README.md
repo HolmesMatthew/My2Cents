@@ -15,7 +15,7 @@ The most tedius part of a budget is setting it up, let ***My2Cents*** do it for 
 - have full control of budget 
 - change budget preferences 
 - change budget display type; pie chart, bar graph ext...
-- track bills paid/bills unpaid 
+- track bills paid/unpaid 
 
 ## Data Model
 Data working flow
@@ -32,7 +32,7 @@ Data working flow
 ## Schedule
 
 ### Week one
-> User and basic budget: Initialize Plaid Api, Set up basic User interface using Django, Build basic budget model and user interface 
+> User and basic budget 
 - Initialize Plaid Api
 - Set up basic User interface using Django
 - Build basic budget model and user interface 
@@ -50,7 +50,12 @@ Data working flow
 - Finish styling
 - Make last minute corrections/additions
 
+_Top schedule **or** bottom?_
+
 |Week One|Week Two|Week Three|Week Four|
-|---|---|---|---|
-|User and basic budget: Initialize Plaid Api, Set up basic User interface using Django, Build basic budget model and user interface|
-|Week Three|Week Four|
+| :---: | :---: | :---: | :---: |
+|`User and basic budget:` Initialize Plaid Api, Set up basic User interface using Django, Build basic budget model and user interface|`add Plaid functionality:` Build transaction model, Start bills model|`Finish logic and begin styling:` Finish bills model, Start Styling|`Finish styling and make last minute additions time permitting:` Finish styling, Make last minute corrections/additions 
+
+## If time permits
+~Not Sure Yet~ 
+
